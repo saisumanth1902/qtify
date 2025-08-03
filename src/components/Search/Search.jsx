@@ -145,7 +145,7 @@ function Search({ searchData, placeholder }) {
   };
 
   return (
-    <div>
+    <div    >
       <form className={styles.wrapper} onSubmit={onSubmit}>
         <input
           type="text"

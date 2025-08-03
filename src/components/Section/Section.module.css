@@ -1,0 +1,32 @@
+.section {
+    background-color: #121212;
+    padding: 20px;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+  }
+  
+  .title {
+    font-size: 22px;
+    font-weight: bold;
+  }
+  
+  .toggleBtn {
+    color: #1db954;
+    font-weight: bold;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .cardGrid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-top: 15px;
+  }
+  
